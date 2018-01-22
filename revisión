@@ -1,0 +1,13 @@
+P1:4
+P2:1
+P3:4
+P4:5
+Nota:14
+
+P1
+Faltan escenarios alternativos
+P2
+Faltan entidades importantes: cancha, reserva, estado reserva,inscripción, estado inscripción.
+No ponen tipo de relaciones entre las entidades.
+P3
+No hay diagrama de casos de uso.
